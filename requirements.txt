@@ -1,0 +1,4 @@
+shlex
+readline
+http.server
+neotermcolor
